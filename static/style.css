@@ -1,0 +1,17 @@
+h1 {
+    background-color: grey;
+    color: white;
+    border: 1px black solid;
+    font-size: 30px;
+}
+
+body {
+    background-color: lightblue;
+}
+
+p {
+    font-style: italic;
+    font-size: larger;
+    color: darkblue;
+    background-color: white;
+}
